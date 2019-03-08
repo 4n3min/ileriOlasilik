@@ -8,4 +8,4 @@ Güvercin yuvasi prensibine gore burada renkler yuva, toplar ise guvercin olmakt
 renk_adedi (yuva )   --> n=3
 tpo_adedi (guvercin) --> k+1=4
 
-Bu sebeble gereken en az top n*k+1 ile 3*3+1=10 olmaktadır.
+Bu sebeble gereken en az top n*k+1 ile 3x3+1=10 olmaktadır.

@@ -6,6 +6,7 @@ bu toplardan 4 tanesi aynı renkte olsun.
 Güvercin yuvasi prensibine gore burada renkler yuva, toplar ise guvercin olmaktadir.
 
 renk_adedi (yuva )   --> n=3
-tpo_adedi (guvercin) --> k+1=4
+
+top_adedi (guvercin) --> k+1=4
 
 Bu sebeble gereken en az top n*k+1 ile 3x3+1=10 olmaktadır.

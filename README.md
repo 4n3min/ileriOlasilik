@@ -1,7 +1,7 @@
 # ileriOlasilik Kou
 
 10 tane kırmızı, 10 tane mavi, 10 tane yeşil top arasından rastgele kaç top seçilecek. 
-En az kaç top seçilmelidirki toplardan 4 tanesi aynı renkte olsun.
+4 tanesi aynı renkte olacak şekilde en az kaç top seçilmelidir.
 
 Güvercin yuvasi prensibine gore burada renkler yuva, toplar ise guvercin olmaktadir.
 

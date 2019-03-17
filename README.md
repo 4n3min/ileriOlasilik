@@ -1,4 +1,8 @@
-# ileriOlasilik Kou
+Ders   : BLM517 Ayrık Sistemler İçin İleri Olasılık
+================================================
+Ödev 1 : 4 mart 2019
+--------------------
+
 
 10 tane kırmızı, 10 tane mavi, 10 tane yeşil top arasından rastgele kaç top seçilecek. 
 4 tanesi aynı renkte olacak şekilde en az kaç top seçilmelidir?
